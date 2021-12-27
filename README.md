@@ -20,7 +20,7 @@ at Interactive Brokers
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate (there currently are none but feel free to start contributing!)****
+Please make sure to update tests as appropriate (there currently are none but feel free to start contributing!)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
